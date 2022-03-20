@@ -76,7 +76,7 @@ https://vscode.dev/github/organization/repo
 https://vscode.dev/azurerepos/organization/project/repo
 
 - VSCode.Dev Insider 
-https://insiders.vscode.dev.
+https://insiders.vscode.dev
 
 ---
 
@@ -89,8 +89,3 @@ https://insiders.vscode.dev.
 - Vim emulation for Visual Studio Code
 - Marp for VS Code
 - Theme's
-
----
-
-# **Pull Until The End Of Time**
-
