@@ -16,12 +16,12 @@ size: 16:9
 - Tips & Tricks
 - Questions & Stuff
 
-![bgl](https://misconfig.io/wp-content/uploads/2022/03/screenshot_75.png)
+
 
 ---
 
 # **From Powerpoint to Markdown**
-![bg](https://geekmasher.dev/media/memes/HotlineBling-Marp.jpg)
+![bg left](https://geekmasher.dev/media/memes/HotlineBling-Marp.jpg)
 
 ---
 
@@ -32,10 +32,17 @@ size: 16:9
 ### Cybersecurity Geek
 ### [Watch Me on LinkedIn](https://www.linkedin.com/in/elishlomo/)
 ### [Star Me on GitHub](https://github.com/eshlomo1)
+
 ![bg right](https://github.com/eshlomo1/eshlomo1/blob/master/ElliShlomo.png)
+
 ---
 
-# **Let The Game Begin**
+# **Let The Game**
+#    **Begin**
+![bg](https://i.imgflip.com/2rxr4x.jpg)
+
+---
+# **VSCode for the Web**
 
 - VSCode for the Web
 - Continue working in a different environment
@@ -43,7 +50,9 @@ size: 16:9
 - Opening a project
 - GitHub & Azure Repos
 
-![bg](https://i.imgflip.com/2rxr4x.jpg)
+---
+
+# **VSCode for the Web**
 
 - Saving and sharing work
 - Language support
@@ -55,7 +64,7 @@ size: 16:9
 
 # **Tips & Tricks**
 
-## Custom URL's
+### Custom URL's
 
 - Navigate to Repo directly
 https://vscode.dev/SOURCE/ORG/REPO
@@ -69,9 +78,11 @@ https://vscode.dev/azurerepos/organization/project/repo
 - VSCode.Dev Insider 
 https://insiders.vscode.dev.
 
-![bg](https://memegenerator.net/img/instances/56299385/show-me-your-tips.jpg)
+---
 
-## Extensions
+# **Tips & Tricks (More)**
+
+### Extensions
 - GitHub Issue Notebooks
 - Python, TypeScript, C#, Yaml, etc.
 - Prettier - Code formatter 
