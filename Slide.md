@@ -89,3 +89,11 @@ https://insiders.vscode.dev
 - Vim emulation for Visual Studio Code
 - Marp for VS Code
 - Theme's
+
+---
+
+![bg](https://i.pinimg.com/originals/99/a4/ec/99a4ecb05a875bba60b2db5d0a02dfbc.jpg)
+
+---
+
+![bg](https://inspirationfeed.com/wp-content/uploads/2021/10/Thank-You-Memes-25.jpg)
